@@ -18,6 +18,6 @@ Adjust the parameters to make the Fire suits the weapon.
 <img width="1920" height="953" alt="Weapon_AdjustParameters" src="https://github.com/user-attachments/assets/893918ed-6060-4e01-b39e-c04c61f863de" />
 
 ## Step 4
-Assign the static mesh to Character Fire VFX Component - 'Initialize Weapon Fire VFX'.
+Assign the static mesh to Character Fire VFX Component - 'Initialize Weapon Fire VFX' and hit compile.
 
 <img width="573" height="364" alt="Weapon_InitialzeComponent" src="https://github.com/user-attachments/assets/5e7be5be-b195-484c-863d-4f6070978e3c" />
