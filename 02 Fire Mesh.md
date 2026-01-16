@@ -1,3 +1,4 @@
+# 02 Fire Mesh
 
 Place the modular Fire VAT meshes (Cone, ,Semisphere, Sphere, Cylinder, and Tube) around the character. Adjust scale, rotation, and position to create a complete fire wrap.
 <img width="1288" height="326" alt="FireMesh" src="https://github.com/user-attachments/assets/f412e3fe-9f2c-4609-bb4c-7ef6dfa215a7" />
