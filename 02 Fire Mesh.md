@@ -32,3 +32,5 @@ In Construction Script, assign Skeletal Mesh Component and the Niagara System Co
 
 <img width="934" height="412" alt="FireMesh_2" src="https://github.com/user-attachments/assets/767ae0d5-14e4-48be-b342-cf136350eb9b" />
 
+## Step 6
+Go back to the parent Blueprint Actor and hit Recompile. Once the CharacterFireVFX component retrieves the Data Asset, the fire meshes will automatically connect to the Blueprint.
