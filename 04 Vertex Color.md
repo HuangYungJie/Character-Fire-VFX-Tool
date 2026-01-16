@@ -9,7 +9,7 @@ In the CharacterFireVFX component’s Details panel, enable "Use Vertex Color Ma
 
 
 ## Step 2
-Open the Mesh Paint tab and paint vertex colors directly onto the character.
+Swtich to the Mesh Paint Mode and paint vertex colors directly onto the character.
 
 <img width="1503" height="897" alt="VertexColorPaint" src="https://github.com/user-attachments/assets/a15bc264-da95-419d-b7d9-cccf85878be0" />
 
