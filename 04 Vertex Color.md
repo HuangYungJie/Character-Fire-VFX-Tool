@@ -1,6 +1,8 @@
 # 04 Vertex Color
 
-This function uses vertex color as a mask to control where fire appears on the mesh. Fire particles will only be generated in areas where vertex color is present, allowing you to erase or grow fire by painting vertex colors. This provides precise, artist-driven control over fire coverage on any static or skeletal mesh.
+Enable Use Vertex Color Mask (R) in the CharacterFireVFX component’s Details panel under Character Fire VFX / Vertex Color.
+
+This feature uses vertex color as a mask to control where fire appears on the mesh. Fire particles are generated only in areas with vertex color, allowing you to grow or erase fire by painting vertex colors. This provides precise, artist-driven control over fire coverage on both static and skeletal meshes.
 
 ## Step 1
 In the CharacterFireVFX component’s Details panel, enable "Use Vertex Color Mask (R)" to activate vertex color masking.
