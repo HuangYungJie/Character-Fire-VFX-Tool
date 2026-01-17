@@ -1,6 +1,8 @@
 # 03 Weapon
 
-This tool is designed for adding fire effects to any static mesh, not just weapons. You can easily attach additional fire sprites to enhance your objects.
+The function initializes the Weapon Fire VFX by automatically binding the required Niagara parameters. It prepares the weapon fire effect for real-time gameplay and Sequencer control.
+
+This function is designed for adding fire effects to any static mesh, not just weapons. You can easily attach additional fire sprites to enhance your objects.
 
 ## Step 1
 Add Weapon Static Mesh to Skeletal Mesh and attach to its parent socket.
