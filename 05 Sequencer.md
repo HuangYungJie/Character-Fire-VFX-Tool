@@ -1,6 +1,8 @@
 # 05 Sequencer
 
-This page guides users through setting up the overlay fire material and Niagara systems in Sequencer, using the functions provided by the CharacterFireVFX component to make the setup quick and easy.
+Enable Use Sequencer Time in the CharacterFireVFX component’s Details panel under Character Fire VFX / Sequencer Time.
+
+This feature uses a Material Parameter Collection to drive the frame index through the CharacterFireTime subsequencer. By adding CharacterFireTime to the Demo Sequencer, the fire shader can be controlled frame by frame directly within Sequencer.
 
 ## Step 1
 In the CharacterFireVFX component's Details panel, enable "Use Sequencer Time" to activate time control in sequcner.
