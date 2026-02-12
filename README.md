@@ -9,7 +9,7 @@ Note This system is lightweight and does not rely on VDB or Niagara Fluids, maki
 [Character Fire VFX Tool](https://www.fab.com/listings/16414e69-6136-42ad-93f8-27f3507a9847)
 
 ## Youtube Demo/Tutorial 
-[Demo](https://youtu.be/grNMazgxC3Y) | [Tutorial 01 Setup](https://youtu.be/cwvtWTBquUU) | [Tutorial 02 Fire Mesh](https://youtu.be/b0JboQ2Gm9Q) | [Tutorial 03 Weapon](https://youtu.be/q32yeFGjQo0) | [Tutorial 04 Vertex Color](https://youtu.be/hf5lAd9UTj4) | [Tutorial 05 Sequencer](https://youtu.be/xm8Skag44es)
+[Demo](https://youtu.be/grNMazgxC3Y) | [Tutorial 01 Setup](https://youtu.be/cwvtWTBquUU) | [Tutorial 02 Fire Mesh](https://youtu.be/b0JboQ2Gm9Q) | [Tutorial 03 Weapon](https://youtu.be/q32yeFGjQo0) | [Tutorial 04 Vertex Color](https://youtu.be/hf5lAd9UTj4) | [Tutorial 05 Sequencer](https://youtu.be/xm8Skag44es) | [Tutorial 06 Illuminate Character](https://youtu.be/qwOMQKV-WC0) | [Tutorial 07 Multiple Skeletal Mesh](https://youtu.be/YsGrurtIivs) | [Tutorial 08 Fire Switch](https://youtu.be/9mWZRSlYvhg) |
 
 
 
